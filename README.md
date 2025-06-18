@@ -19,7 +19,7 @@ In Xcode:
 1. Go to **File > Add Packages...**
 2. Enter the URL of this repository:
    ```
-   https://github.com/your-username/NetworkKit.git
+   https://github.com/FranAlarza/NetworkKit.git
    ```
 3. Select the version (e.g. `1.0.0`)
 
